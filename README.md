@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [评测的幻觉：Import AI 445: Timing superintellig](content/20260222_评测的幻觉-import-ai-445-timing-superintellig.md)
+
 - [20260222] [从Multiple Independent Semantic 看架构选择的隐性成本](content/20260222_从multiple-independent-semantic-看架构选择的隐性成本.md)
 
 - [20260222] [对AGI Is Not Multimodal的思考](content/20260222_对agi-is-not-multimodal的思考.md)
