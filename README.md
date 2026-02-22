@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [从Multiple Independent Semantic 看架构选择的隐性成本](content/20260222_从multiple-independent-semantic-看架构选择的隐性成本.md)
+
 - [20260222] [对AGI Is Not Multimodal的思考](content/20260222_对agi-is-not-multimodal的思考.md)
 
 - [20260222] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260222_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
