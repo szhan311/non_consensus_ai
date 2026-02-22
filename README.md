@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [安全研究的盲点：从What to Do About AGI谈起](content/20260222_安全研究的盲点-从what-to-do-about-agi谈起.md)
+
 - [20260222] [对Import AI 444: LLM societies; Huawei mak的思考](content/20260222_对import-ai-444-llm-societies-huawei-mak的思考.md)
 
 - [20260222] [从Mapping LLM attractor states看架构选择的隐性成本](content/20260222_从mapping-llm-attractor-states看架构选择的隐性成本.md)
