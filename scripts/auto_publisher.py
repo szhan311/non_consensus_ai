@@ -308,6 +308,9 @@ slug: {slug}
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(content)
         
+        # 更新README索引
+        self._update_readme_index(filename, title, date_str)
+        
         # Git操作
         try:
             os.chdir(self.base_dir)
@@ -318,6 +321,28 @@ slug: {slug}
             return f"✅ 已发布: {filename}"
         except subprocess.CalledProcessError as e:
             return f"⚠️ 本地保存 (git push失败): {filename}"
+    
+    def _update_readme_index(self, filename: str, title: str, date_str: str):
+        """更新README索引 - 在INDEX_START和INDEX_END之间插入"""
+        readme_path = os.path.join(self.base_dir, "README.md")
+        
+        with open(readme_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        
+        # 新索引条目
+        new_entry = f"- [{date_str}] [{title}](content/{filename})\n"
+        
+        # 在INDEX_START后插入
+        start_marker = "<!-- INDEX_START -->"
+        if start_marker in content:
+            idx = content.find(start_marker) + len(start_marker)
+            content = content[:idx] + "\n" + new_entry + content[idx:]
+        else:
+            # 如果没有标记，在开头添加
+            content = f"<!-- INDEX_START -->\n{new_entry}<!-- INDEX_END -->\n\n" + content
+        
+        with open(readme_path, 'w', encoding='utf-8') as f:
+            f.write(content)
     
     def run(self):
         """运行生成器"""
