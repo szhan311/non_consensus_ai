@@ -1,154 +1,181 @@
-# 非共识AI (Non-Consensus AI)
+# Non-Consensus AI
 
-基于第一性原理的深度非共识洞察生成系统。
+High-quality technical analysis of AI/ML research and systems. Long-form blog posts examining the gap between claims and evidence.
 
-## 项目结构
+## Project Structure
 
 ```
 non_consensus_ai/
-├── content/          # 生成的非共识内容
-├── config/           # 配置文件
-│   └── rss_feeds.md  # RSS源列表
-├── scripts/          # 自动化脚本
-│   ├── insight_miner.py      # 主生成脚本
-│   ├── hn_monitor.py         # HN监控
-│   ├── rss_aggregator.py     # RSS聚合
-│   └── rss_monitor.py        # RSS监控
-└── docs/             # 文档
-    ├── x_content_collector.md  # X内容收集模板
-    ├── hn_rss_curated.md       # HN精选RSS
-    ├── hn_rss_feeds_list.md    # RSS订阅列表
-    └── hn_daily_digest.md      # 每日监控模板
+├── content/          # Generated blog posts (markdown)
+├── drafts/           # Draft posts before publication
+├── scripts/          # Automation scripts
+│   └── auto_publisher.py   # Main blog generator
+└── docs/             # Documentation and references
 ```
 
-## 核心功能
+## Content Style
 
-### 1. 自动非共识挖掘 (每15分钟)
+Inspired by: **Simon Willison**, **Gwern**, **Dan Luu**, **Andrej Karpathy**
+
+### Key Characteristics
+
+- **Long-form analysis** (1500-3000 words)
+- **Technical depth** with specific evidence
+- **Structured sections**:
+  - Introduction (context and motivation)
+  - Surface Narrative (common claims)
+  - What Evidence Shows (contradictory findings)
+  - Technical Deep-Dive (implementation details)
+  - Implications (practical consequences)
+  - Verifiable Predictions (falsifiable claims with timelines)
+  - Related Work (context and counter-arguments)
+  - Conclusion
+- **Citation-heavy**: References to actual papers, systems, and benchmarks
+- **Neutral tone**: No marketing language, no emoji
+- **Falsifiable predictions**: Specific claims with verification criteria
+
+## Topic Categories
+
+1. **Architecture**: Transformers, State Space Models, MoE, Attention mechanisms
+2. **Training**: Scaling Laws, Synthetic Data, RLHF, Distillation
+3. **Inference**: Speculative Decoding, KV Cache, Batching, Cost optimization
+4. **Evaluation**: Benchmark Contamination, Capability Overhang, Emergence
+5. **Systems**: Distributed training, Serving infrastructure, Hardware
+6. **Safety**: Alignment limitations, Jailbreak robustness, Monitoring
+7. **Applications**: Code generation, Reasoning, Long context, Scientific discovery
+
+## Generation Process
+
 ```bash
-cd ~/Desktop/non_consensus_ai/scripts
-python3 insight_miner.py
+cd ~/Desktop/non_consensus_ai
+python3 scripts/auto_publisher.py
 ```
 
-自动生成基于第一性原理的深度反直觉洞察，保存到 `content/` 目录。
+The generator:
+1. Selects a topic category and subtopic
+2. Generates a full blog post with all sections
+3. Saves to `content/` with date-prefixed filename
+4. Updates README index
+5. Commits and pushes to GitHub
 
-### 2. HN话题监控
-```bash
-python3 scripts/hn_monitor.py
-```
+## Publishing Schedule
 
-跟踪Hacker News热门AI讨论，发现高质量信源。
+- **Frequency**: Every 10 minutes (configurable)
+- **Quality over quantity**: Each post is substantial technical analysis
+- **No duplicates**: Tracks published topics to avoid repetition
 
-### 3. RSS内容聚合
-```bash
-python3 scripts/rss_aggregator.py
-```
-
-管理20+高质量RSS源，生成订阅列表。
-
-## 内容特点
-
-- ✅ **高质量技术洞察**：基于最新研究和技术趋势
-- ✅ **具体证据支撑**：引用具体数据、论文和实证研究
-- ✅ **精确可验证预测**：明确时间线和验证标准
-- ✅ **方法论隐形**：不出现"第一性原理"等术语
-- ✅ **中性风格**：直接陈述，无emoji和营销语气
-
-## 话题库 (20个高质量话题)
-
-涵盖领域：
-- 技术架构 (RAG、多模态、模型效率)
-- 编程文化 (AI编码工具、技能退化、身份危机)
-- 商业模式 (开源模型、AI创业、ChatGPT)
-- 社会影响 (AI写作、法律服务、教育)
-- AI安全 (对齐、RLHF、研究可信度)
-
-## 优质信源
-
-### HN社区精选
-- karpathy.ai (Andrej Karpathy)
-- surfingcomplexity.blog (Lorin Hochstein)
-- danluu.com (Dan Luu)
-- jvns.ca (Julia Evans)
-- normaltech.ai (AI Snake Oil)
-
-### RSS订阅
-- distill.pub
-- thegradient.pub
-- alignmentforum.org
-- lesswrong.com
-
-### Newsletter
-- Import AI (Jack Clark)
-- AI Snake Oil
-- One Useful Thing (Ethan Mollick)
-
-## 使用流程
-
-### 日常自动化
-1. cron每15分钟运行 `insight_miner.py`
-2. 内容自动保存到 `content/`
-3. 无需人工干预
-
-### 内容发现
-1. 浏览 HN RSS: https://hnrss.org/frontpage
-2. 发现好内容 → 粘贴到 `docs/x_content_collector.md`
-3. 定期整理 → 更新 `scripts/insight_miner.py` 话题库
-
-### 质量监控
-1. 每周回顾 `content/` 生成的内容
-2. 检查验证预测是否应验
-3. 迭代改进话题库
-
-## 输出示例
+## Example Output
 
 ```markdown
-# AGI时间表：被高估的现状与未被看见的风险
+---
+title: "Speculative Decoding: A Deeper Look at the Claims"
+date: 2026-02-22
+category: Inference
+subtopic: Speculative Decoding
+slug: speculative-decoding-a-deeper-look-at-the-claims
+---
 
-## 表面共识
-AI领袖们的预测是真诚的
+# Speculative Decoding: A Deeper Look at the Claims
 
-## 非共识洞察
-AGI时间表是被资金驱动的叙事，不是技术现实
+*Published: 2026-02-22 | Category: Inference*
 
-## 支撑逻辑
-预测历史显示AI时间表准确率<15%，每次预测都是为了融资
+## Introduction
 
-## 可验证预测
-6个月内会有新的'AGI推迟'叙事出现
+I've been following developments in Speculative Decoding closely over the past few months...
+
+## The Surface Narrative
+
+The standard claim is that speculative decoding provides nearly 'free' speedups of 2-3x...
+
+## What the Evidence Actually Shows
+
+**The speedup claims require important caveats:**
+
+**Draft Model Quality Dependency**: Speedups are highly sensitive to draft model acceptance rates...
+
+[Additional sections: Technical Deep-Dive, Implications, Verifiable Predictions, Related Work, Conclusion]
 
 ---
 
-*Published: 2024-02-22 10:30*
-*Tags: #AGI, #AI预测, #深度思考*
+*This analysis is based on publicly available research and system evaluations. Corrections and counter-arguments are welcome.*
+
+**Tags:** #Inference #SpeculativeDecoding #DeepDive
 ```
 
-## 技术栈
+## GitHub Repository
 
-- Python 3
-- cron (定时任务)
-- RSSHub (RSS聚合)
-- HNRSS (HN监控)
+**URL**: https://github.com/szhan311/non_consensus_ai
 
-## 维护
+All posts are automatically committed and pushed to this repository.
 
-- 话题库：定期从HN/X/RSS发现新话题
-- 信源质量：根据HN社区反馈调整权重
-- 内容质量：人工审核，迭代改进
+## Content Quality
+
+### Standards
+
+- ✅ **Evidence-based**: Specific papers, systems, benchmarks cited
+- ✅ **Technical depth**: Implementation details and system constraints
+- ✅ **Nuanced**: Acknowledges complexity and counter-arguments
+- ✅ **Falsifiable**: Predictions include verification criteria
+- ✅ **Reference-rich**: Links to original sources
+
+### Avoid
+
+- ❌ Surface-level summaries
+- ❌ Unsubstantiated claims
+- ❌ Marketing language
+- ❌ Emoji or clickbait formatting
+- ❌ Generic advice without context
+
+## Inspiration and References
+
+### Writers
+- **Simon Willison**: [simonwillison.net](https://simonwillison.net) - Deep dives into LLM capabilities
+- **Gwern**: [gwern.net](https://www.gwern.net) - Long-form analysis with extensive citations
+- **Dan Luu**: [danluu.com](https://danluu.com) - Systems performance and engineering
+- **Andrej Karpathy**: [karpathy.ai](https://karpathy.ai) - Technical explanations
+
+### Topics
+- ** distill.pub**: Clear explanations of ML concepts
+- **The Gradient**: Accessible technical perspectives
+- **Alignment Forum**: Technical AI safety research
+
+## Automation
+
+The project uses cron for automatic publishing:
+
+```bash
+# Check current cron jobs
+cron list
+
+# Publishing runs every 10 minutes
+# Job: non_consensus_ai_publisher
+```
+
+## Manual Workflow
+
+If you want to review before publishing:
+
+```bash
+# Generate draft (saves to drafts/)
+python3 scripts/generate_draft.py
+
+# Review and edit
+vim drafts/YYYY-MM-DD_title.md
+
+# Publish manually
+python3 scripts/publish_draft.py drafts/YYYY-MM-DD_title.md
+```
+
+## Future Improvements
+
+- [ ] Add RSS feed generation
+- [ ] Implement comment system via GitHub Issues
+- [ ] Add search functionality
+- [ ] Create tag-based navigation
+- [ ] Add reading time estimates
 
 ---
 
-**项目定位**：结果导向的非共识AI内容生成系统
-**更新频率**：每15分钟自动生成
-**人工介入**：仅需内容发现和质量审核
-
-
-## 内容索引
-- [20260222_004053] [Synthetic Data Training](content/post_20260222_004053.md)
-- [20260222_003831] [AI翻译](content/post_20260222_003831.md)
-- [20260222_003636] [ChatGPT](content/post_20260222_003636.md)
-
-
+**Project Goal**: Create a repository of high-quality technical analysis that stands up to scrutiny and remains useful over time.
 
 ## Content Index
-- [20260222] [Benchmark Contamination and the Limits of Current Approaches](content/20260222_benchmark-contamination-and-the-limits-of-current-approaches.md)
-
