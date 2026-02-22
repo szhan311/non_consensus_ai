@@ -142,6 +142,7 @@ AGI时间表是被资金驱动的叙事，不是技术现实
 
 
 ## 内容索引
+- [20260222_004053] [Synthetic Data Training](content/post_20260222_004053.md)
 - [20260222_003831] [AI翻译](content/post_20260222_003831.md)
 - [20260222_003636] [ChatGPT](content/post_20260222_003636.md)
 
