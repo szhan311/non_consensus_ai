@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [评测的幻觉：Import AI 445: Timing superintellig](content/20260222_评测的幻觉-import-ai-445-timing-superintellig.md)
+
 - [20260222] [训练范式的隐性假设：对Hierarchical Goal Inducti的反思](content/20260222_训练范式的隐性假设-对hierarchical-goal-inducti的反思.md)
 
 - [20260222] [AI能力的隐性边界：从法律服务到Moravec悖论](content/20260222_AI能力的隐性边界.md)
