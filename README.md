@@ -47,8 +47,9 @@ python3 scripts/rss_aggregator.py
 
 ## 内容特点
 
-- ✅ **正确的非共识**：有理有据，不是为反对而反对
-- ✅ **可验证预测**：6个月内可观察的验证信号
+- ✅ **高质量技术洞察**：基于最新研究和技术趋势
+- ✅ **具体证据支撑**：引用具体数据、论文和实证研究
+- ✅ **精确可验证预测**：明确时间线和验证标准
 - ✅ **方法论隐形**：不出现"第一性原理"等术语
 - ✅ **中性风格**：直接陈述，无emoji和营销语气
 
@@ -145,4 +146,9 @@ AGI时间表是被资金驱动的叙事，不是技术现实
 - [20260222_004053] [Synthetic Data Training](content/post_20260222_004053.md)
 - [20260222_003831] [AI翻译](content/post_20260222_003831.md)
 - [20260222_003636] [ChatGPT](content/post_20260222_003636.md)
+
+
+
+## Content Index
+- [20260222] [Benchmark Contamination and the Limits of Current Approaches](content/20260222_benchmark-contamination-and-the-limits-of-current-approaches.md)
 
