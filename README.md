@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [对Fact checking Moravec's paradox的思考](content/20260222_对fact-checking-moravec-s-paradox的思考.md)
+
 - [20260222] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260222_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
 
 - [20260222] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260222_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
