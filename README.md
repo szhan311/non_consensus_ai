@@ -179,3 +179,4 @@ python3 scripts/publish_draft.py drafts/YYYY-MM-DD_title.md
 **Project Goal**: Create a repository of high-quality technical analysis that stands up to scrutiny and remains useful over time.
 
 ## Content Index
+- [20260222] [The Hidden Complexity of Attention Mechanisms](content/20260222_the-hidden-complexity-of-attention-mechanisms.md)
