@@ -3,6 +3,8 @@
 <!-- INDEX_START -->
 - [20260222] [评测的幻觉：Import AI 445: Timing superintellig](content/20260222_评测的幻觉-import-ai-445-timing-superintellig.md)
 
+- [20260222] [评测的幻觉：Import AI 445: Timing superintellig](content/20260222_评测的幻觉-import-ai-445-timing-superintellig.md)
+
 - [20260222] [对Import AI 443: Into the mist: Moltbook, 的思考](content/20260222_对import-ai-443-into-the-mist-moltbook-的思考.md)
 
 - [20260222] [安全研究的盲点：从What to Do About AGI谈起](content/20260222_安全研究的盲点-从what-to-do-about-agi谈起.md)
