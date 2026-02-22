@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [训练范式的隐性假设：对Adapters as Representatio的反思](content/20260222_训练范式的隐性假设-对adapters-as-representatio的反思.md)
+
 - [20260222] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260222_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
 
 - [20260222] [评测的幻觉：Import AI 445: Timing superintellig](content/20260222_评测的幻觉-import-ai-445-timing-superintellig.md)
