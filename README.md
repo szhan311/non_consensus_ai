@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [从Shape, Symmetries, and Structu看架构选择的隐性成本](content/20260222_从shape-symmetries-and-structu看架构选择的隐性成本.md)
+
 - [20260222] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260222_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
 
 - [20260222] [对Distill Hiatus的思考](content/20260222_对distill-hiatus的思考.md)
