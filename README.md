@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [安全研究的盲点：从If you don't feel deeply confu谈起](content/20260222_安全研究的盲点-从if-you-don-t-feel-deeply-confu谈起.md)
+
 - [20260222] [重新审视基准污染：证据与叙事的背离](content/20260222_重新审视基准污染-证据与叙事的背离.md)
 
 - [20260222] [涌现能力的技术现实：从 hype 到落地的鸿沟](content/20260222_涌现能力的技术现实-从-hype-到落地的鸿沟.md)
