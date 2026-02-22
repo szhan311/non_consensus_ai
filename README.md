@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [评测的幻觉：Import AI 445: Timing superintellig](content/20260222_评测的幻觉-import-ai-445-timing-superintellig.md)
+
 - [20260222] [安全研究的盲点：从If you don't feel deeply confu谈起](content/20260222_安全研究的盲点-从if-you-don-t-feel-deeply-confu谈起.md)
 
 - [20260222] [重新审视基准污染：证据与叙事的背离](content/20260222_重新审视基准污染-证据与叙事的背离.md)
