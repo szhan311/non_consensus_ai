@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [对AI Won’t Automatically Make Legal Servic的思考](content/20260222_对ai-won-t-automatically-make-legal-servic的思考.md)
+
 - [20260222] [评测的幻觉：Import AI 445: Timing superintellig](content/20260222_评测的幻觉-import-ai-445-timing-superintellig.md)
 
 - [20260222] [对Understanding Convolutions on Graphs的思考](content/20260222_对understanding-convolutions-on-graphs的思考.md)
