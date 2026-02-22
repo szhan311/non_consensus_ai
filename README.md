@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [对Understanding Convolutions on Graphs的思考](content/20260222_对understanding-convolutions-on-graphs的思考.md)
+
 - [20260222] [评测的幻觉：Import AI 445: Timing superintellig](content/20260222_评测的幻觉-import-ai-445-timing-superintellig.md)
 
 - [20260222] [训练范式的隐性假设：对Hierarchical Goal Inducti的反思](content/20260222_训练范式的隐性假设-对hierarchical-goal-inducti的反思.md)
