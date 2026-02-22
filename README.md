@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260222_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
+
 - [20260222] [对Understanding Convolutions on Graphs的思考](content/20260222_对understanding-convolutions-on-graphs的思考.md)
 
 - [20260222] [训练范式的隐性假设：对InsanityBench: Cryptic Pu的反思](content/20260222_训练范式的隐性假设-对insanitybench-cryptic-pu的反思.md)
