@@ -1,15 +1,14 @@
 ## 内容索引
 
 <!-- INDEX_START -->
-- [20260222] [对Distill Hiatus的思考](content/20260222_对distill-hiatus的思考.md)
-
+- [20260222] [AI能力的隐性边界：从法律服务到Moravec悖论](content/20260222_AI能力的隐性边界.md)
 <!-- INDEX_END -->
 
 ---
 
 # 非共识AI技术博客
 
-基于真实信息源的深度技术分析，每篇风格各异。
+基于真实信息源的深度技术分析。
 
 **GitHub**: https://github.com/szhan311/non_consensus_ai
 
@@ -17,9 +16,8 @@
 
 - **语言**: 中文
 - **长度**: 1000-2000字
-- **频率**: 每10分钟自动发布
-- **信息源**: Import AI、LessWrong、The Gradient等真实RSS
-- **风格**: 根据话题动态变化
+- **生成方式**: 基于爬取的RSS数据，亲自阅读、思考、写作
+- **信息源**: Import AI、AI Snake Oil、The Gradient、LessWrong等
 
 ---
 
