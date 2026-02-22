@@ -183,42 +183,39 @@ class AutoNonConsensusGenerator:
             }
         ]
     
-    def generate_xiaohongshu_post(self) -> str:
-        """生成小红书风格的非共识帖子"""
+    def generate_post(self) -> str:
+        """生成非共识分析文章"""
         topic = random.choice(self.topic_library)
         
-        # 随机选择语气
-        tones = [
-            "🔥 说点得罪人的：",
-            "😤 为什么没人敢说：",
-            "💡 反直觉的真相：",
-            "⚠️ 很多人没意识到：",
-            "🤔 换个角度思考："
+        # 生成标题 - 直接陈述式
+        title_styles = [
+            f"{topic['topic']}：被高估的现状与未被看见的风险",
+            f"重新审视{topic['topic']}：为什么主流叙事可能是错的",
+            f"{topic['topic']}的真相：反直觉的观察",
+            f"关于{topic['topic']}，我们需要更诚实的讨论",
+            f"{topic['topic']}：一个非共识视角的分析"
         ]
-        tone = random.choice(tones)
+        title = random.choice(title_styles)
         
-        # 生成标题
-        title = f"{tone}{topic['topic']}都是{random.choice(['骗局', '泡沫', '误解', '被操纵的'])}"
-        
-        # 生成内容
-        content = f"""{title}
+        # 生成内容 - 干净的中性风格
+        content = f"""# {title}
 
-❌ 表面观点：
+## 表面共识
 {topic['surface']}
 
-✅ 真正的洞察：
+## 非共识洞察
 {topic['insight']}
 
-💡 为什么这是对的：
+## 支撑逻辑
 {topic['evidence']}
 
-🔮 可验证预测：
+## 可验证预测
 {topic['prediction']}
 
-👇 你觉得这个分析站得住脚吗？
-评论区理性讨论👀
+---
 
-{' '.join(topic['tags'])}
+*Published: {datetime.now().strftime("%Y-%m-%d %H:%M")}*
+*Tags: {', '.join(topic['tags'])}*
 """
         return content, topic['topic']
     
@@ -274,7 +271,7 @@ class AutoNonConsensusGenerator:
         """运行生成器"""
         print(f"[{datetime.now().strftime('%H:%M:%S')}] 生成非共识内容...")
         
-        content, topic = self.generate_xiaohongshu_post()
+        content, topic = self.generate_post()
         result = self.save_and_commit(content, topic)
         
         print(result)
