@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [对Distill Hiatus的思考](content/20260222_对distill-hiatus的思考.md)
+
 - [20260222] [对Import AI 444: LLM societies; Huawei mak的思考](content/20260222_对import-ai-444-llm-societies-huawei-mak的思考.md)
 
 - [20260222] [对Import AI 443: Into the mist: Moltbook, 的思考](content/20260222_对import-ai-443-into-the-mist-moltbook-的思考.md)
