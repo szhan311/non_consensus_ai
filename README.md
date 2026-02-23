@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [对Fact checking Moravec's paradox的思考](content/20260222_对fact-checking-moravec-s-paradox的思考.md)
+
 - [20260222] [对Distill Hiatus的思考](content/20260222_对distill-hiatus的思考.md)
 
 - [20260222] [对Import AI 444: LLM societies; Huawei mak的思考](content/20260222_对import-ai-444-llm-societies-huawei-mak的思考.md)
