@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [安全研究的盲点：从Claude Sonnet 4.6 Gives You Fl谈起](content/20260223_安全研究的盲点-从claude-sonnet-4-6-gives-you-fl谈起.md)
+
 - [20260223] [训练范式的隐性假设：对Abstract/Concrete Axis: R的反思](content/20260223_训练范式的隐性假设-对abstract-concrete-axis-r的反思.md)
 
 - [20260223] [训练范式的隐性假设：对Abstract/Concrete Axis: R的反思](content/20260223_训练范式的隐性假设-对abstract-concrete-axis-r的反思.md)
