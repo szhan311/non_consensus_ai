@@ -3,6 +3,8 @@
 <!-- INDEX_START -->
 - [20260223] [对Fact checking Moravec's paradox的思考](content/20260223_对fact-checking-moravec-s-paradox的思考.md)
 
+- [20260223] [对Fact checking Moravec's paradox的思考](content/20260223_对fact-checking-moravec-s-paradox的思考.md)
+
 - [20260223] [对AI Won’t Automatically Make Legal Servic的思考](content/20260223_对ai-won-t-automatically-make-legal-servic的思考.md)
 
 - [20260223] [对Import AI 444: LLM societies; Huawei mak的思考](content/20260223_对import-ai-444-llm-societies-huawei-mak的思考.md)
