@@ -673,13 +673,24 @@ AI领域存在强烈的publish-or-perish压力，导致对快速可演示结果�
         # 2. 获取内容
         items = self.fetch_rss_feed(source_config['url'])
         if not items:
-            print("⚠️ 无法获取RSS内容，使用备用方案")
+            print("⚠️ 无法获取RSS内容，使用备用方案生成通用洞察...")
+            # 使用备用方案生成内容
+            content, title = self._generate_fallback_content()
+            result = self.save_and_publish(content, title)
+            print(result)
+            print(f"标题: {title}")
+            print("-" * 70)
             return
         
         # 3. 分析内容
         source_data = self.analyze_source_content(items)
         if not source_data:
-            print("⚠️ 无法分析内容")
+            print("⚠️ 无法分析内容，使用备用方案...")
+            content, title = self._generate_fallback_content()
+            result = self.save_and_publish(content, title)
+            print(result)
+            print(f"标题: {title}")
+            print("-" * 70)
             return
         
         print(f"检测话题类型: {source_data['topic_type']}")
