@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [评测的幻觉：Import AI 445: Timing superintellig](content/20260222_评测的幻觉-import-ai-445-timing-superintellig.md)
+
 - [20260222] [从Why I Transitioned: A Third (F看架构选择的隐性成本](content/20260222_从why-i-transitioned-a-third-f看架构选择的隐性成本.md)
 
 - [20260222] [对A guide to understanding AI as normal te的思考](content/20260222_对a-guide-to-understanding-ai-as-normal-te的思考.md)
