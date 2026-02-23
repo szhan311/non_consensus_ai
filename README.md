@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [对A Gentle Introduction to Graph Neural Ne的思考](content/20260223_对a-gentle-introduction-to-graph-neural-ne的思考.md)
+
 - [20260223] [产品化的现实检验：Innate Immunity](content/20260223_产品化的现实检验-innate-immunity.md)
 
 - [20260223] [对Distill Hiatus的思考](content/20260223_对distill-hiatus的思考.md)
