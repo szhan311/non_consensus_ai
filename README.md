@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [对A guide to understanding AI as normal te的思考](content/20260222_对a-guide-to-understanding-ai-as-normal-te的思考.md)
+
 - [20260222] [训练范式的隐性假设：对The Scalable Formal Overs的反思](content/20260222_训练范式的隐性假设-对the-scalable-formal-overs的反思.md)
 
 - [20260222] [从Shape, Symmetries, and Structu看架构选择的隐性成本](content/20260222_从shape-symmetries-and-structu看架构选择的隐性成本.md)
