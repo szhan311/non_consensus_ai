@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [对Fact checking Moravec's paradox的思考](content/20260223_对fact-checking-moravec-s-paradox的思考.md)
+
 - [20260223] [评估指标与真实能力的脱节](content/20260223_评估指标与真实能力的脱节.md)
 
 - [20260223] [对AGI Is Not Multimodal的思考](content/20260223_对agi-is-not-multimodal的思考.md)
