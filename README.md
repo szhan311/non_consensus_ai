@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [对Distill Hiatus的思考](content/20260223_对distill-hiatus的思考.md)
+
 - [20260223] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260223_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
 
 - [20260223] [从第一性原理看模型规模竞赛](content/20260223_从第一性原理看模型规模竞赛.md)
