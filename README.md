@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [从第一性原理看模型规模竞赛](content/20260223_从第一性原理看模型规模竞赛.md)
+
 - [20260223] [对A guide to understanding AI as normal te的思考](content/20260223_对a-guide-to-understanding-ai-as-normal-te的思考.md)
 
 - [20260223] [对AI Won’t Automatically Make Legal Servic的思考](content/20260223_对ai-won-t-automatically-make-legal-servic的思考.md)
