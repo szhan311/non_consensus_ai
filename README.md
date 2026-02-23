@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [训练范式的隐性假设：对A linear increase in numb的反思](content/20260223_训练范式的隐性假设-对a-linear-increase-in-numb的反思.md)
+
 - [20260223] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260223_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
 
 - [20260223] [训练范式的隐性假设：对Pre-training data poisoni的反思](content/20260223_训练范式的隐性假设-对pre-training-data-poisoni的反思.md)
