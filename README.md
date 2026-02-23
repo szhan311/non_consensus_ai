@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [对The power of a simple 3-way truth scale的思考](content/20260222_对the-power-of-a-simple-3-way-truth-scale的思考.md)
+
 - [20260222] [训练范式的隐性假设：对Storing Food的反思](content/20260222_训练范式的隐性假设-对storing-food的反思.md)
 
 - [20260222] [评测的幻觉：Import AI 445: Timing superintellig](content/20260222_评测的幻觉-import-ai-445-timing-superintellig.md)
