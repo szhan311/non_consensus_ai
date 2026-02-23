@@ -3,6 +3,8 @@
 <!-- INDEX_START -->
 - [20260223] [产品化的现实检验：Innate Immunity](content/20260223_产品化的现实检验-innate-immunity.md)
 
+- [20260223] [产品化的现实检验：Innate Immunity](content/20260223_产品化的现实检验-innate-immunity.md)
+
 - [20260223] [对Import AI 444: LLM societies; Huawei mak的思考](content/20260223_对import-ai-444-llm-societies-huawei-mak的思考.md)
 
 - [20260223] [对A guide to understanding AI as normal te的思考](content/20260223_对a-guide-to-understanding-ai-as-normal-te的思考.md)
