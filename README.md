@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260222] [对A guide to understanding AI as normal te的思考](content/20260222_对a-guide-to-understanding-ai-as-normal-te的思考.md)
+
 - [20260222] [对AGI Is Not Multimodal的思考](content/20260222_对agi-is-not-multimodal的思考.md)
 
 - [20260222] [对Fact checking Moravec's paradox的思考](content/20260222_对fact-checking-moravec-s-paradox的思考.md)
