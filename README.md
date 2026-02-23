@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [对A guide to understanding AI as normal te的思考](content/20260223_对a-guide-to-understanding-ai-as-normal-te的思考.md)
+
 - [20260223] [对Fact checking Moravec's paradox的思考](content/20260223_对fact-checking-moravec-s-paradox的思考.md)
 
 - [20260223] [从Shape, Symmetries, and Structu看架构选择的隐性成本](content/20260223_从shape-symmetries-and-structu看架构选择的隐性成本.md)
