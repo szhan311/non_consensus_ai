@@ -3,6 +3,8 @@
 <!-- INDEX_START -->
 - [20260223] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260223_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
 
+- [20260223] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260223_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
+
 - [20260222] [对Import AI 443: Into the mist: Moltbook, 的思考](content/20260222_对import-ai-443-into-the-mist-moltbook-的思考.md)
 
 - [20260222] [AI安全的生产化困境](content/20260222_ai安全的生产化困境.md)
