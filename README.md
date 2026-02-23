@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [对AGI Is Not Multimodal的思考](content/20260223_对agi-is-not-multimodal的思考.md)
+
 - [20260223] [产品化的现实检验：Innate Immunity](content/20260223_产品化的现实检验-innate-immunity.md)
 
 - [20260223] [产品化的现实检验：Innate Immunity](content/20260223_产品化的现实检验-innate-immunity.md)
