@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [评测的幻觉：Import AI 446: Nuclear LLMs; China'](content/20260223_评测的幻觉-import-ai-446-nuclear-llms-china.md)
+
 - [20260223] [训练范式的隐性假设：对Pre-training data poisoni的反思](content/20260223_训练范式的隐性假设-对pre-training-data-poisoni的反思.md)
 
 - [20260223] [评测的幻觉：Import AI 445: Timing superintellig](content/20260223_评测的幻觉-import-ai-445-timing-superintellig.md)
