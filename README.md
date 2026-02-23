@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [AI安全的生产化困境](content/20260223_ai安全的生产化困境.md)
+
 - [20260223] [开源vs闭源：能力差距的临界点](content/20260223_开源vs闭源-能力差距的临界点.md)
 
 - [20260223] [安全研究的盲点：从Claude Sonnet 4.6 Gives You Fl谈起](content/20260223_安全研究的盲点-从claude-sonnet-4-6-gives-you-fl谈起.md)
