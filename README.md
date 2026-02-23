@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [从第一性原理看模型规模竞赛](content/20260223_从第一性原理看模型规模竞赛.md)
+
 - [20260223] [对Fact checking Moravec's paradox的思考](content/20260223_对fact-checking-moravec-s-paradox的思考.md)
 
 - [20260223] [对Fact checking Moravec's paradox的思考](content/20260223_对fact-checking-moravec-s-paradox的思考.md)
