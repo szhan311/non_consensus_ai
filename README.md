@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [对A Gentle Introduction to Graph Neural Ne的思考](content/20260223_对a-gentle-introduction-to-graph-neural-ne的思考.md)
+
 - [20260223] [对Understanding Convolutions on Graphs的思考](content/20260223_对understanding-convolutions-on-graphs的思考.md)
 
 - [20260223] [AI安全的生产化困境](content/20260223_ai安全的生产化困境.md)
