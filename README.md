@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [AI进步的可信度评估框架](content/20260223_ai进步的可信度评估框架.md)
+
 - [20260223] [对A Gentle Introduction to Graph Neural Ne的思考](content/20260223_对a-gentle-introduction-to-graph-neural-ne的思考.md)
 
 - [20260223] [对A Gentle Introduction to Graph Neural Ne的思考](content/20260223_对a-gentle-introduction-to-graph-neural-ne的思考.md)
