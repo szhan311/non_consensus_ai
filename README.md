@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [安全研究的盲点：从Responsible Scaling Policy v3谈起](content/20260224_安全研究的盲点-从responsible-scaling-policy-v3谈起.md)
+
 - [20260224] [对Import AI 444: LLM societies; Huawei mak的思考](content/20260224_对import-ai-444-llm-societies-huawei-mak的思考.md)
 
 - [20260224] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260224_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
