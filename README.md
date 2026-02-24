@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [从第一性原理看模型规模竞赛](content/20260224_从第一性原理看模型规模竞赛.md)
+
 - [20260224] [评测的幻觉：Import AI 446: Nuclear LLMs; China'](content/20260224_评测的幻觉-import-ai-446-nuclear-llms-china.md)
 
 - [20260224] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260224_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
