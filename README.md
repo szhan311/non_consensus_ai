@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [评估指标与真实能力的脱节](content/20260224_评估指标与真实能力的脱节.md)
+
 - [20260224] [对Understanding Convolutions on Graphs的思考](content/20260224_对understanding-convolutions-on-graphs的思考.md)
 
 - [20260223] [对Distill Hiatus的思考](content/20260223_对distill-hiatus的思考.md)
