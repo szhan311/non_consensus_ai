@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [从第一性原理看模型规模竞赛](content/20260223_从第一性原理看模型规模竞赛.md)
+
 - [20260223] [训练范式的隐性假设：对Two memos from 2024的反思](content/20260223_训练范式的隐性假设-对two-memos-from-2024的反思.md)
 
 - [20260223] [对Import AI 444: LLM societies; Huawei mak的思考](content/20260223_对import-ai-444-llm-societies-huawei-mak的思考.md)
