@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260224_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
+
 - [20260224] [评估指标与真实能力的脱节](content/20260224_评估指标与真实能力的脱节.md)
 
 - [20260224] [从第一性原理看模型规模竞赛](content/20260224_从第一性原理看模型规模竞赛.md)
