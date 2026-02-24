@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [训练范式的隐性假设：对Open sourcing a browser e的反思](content/20260224_训练范式的隐性假设-对open-sourcing-a-browser-e的反思.md)
+
 - [20260224] [对New Paper: Towards a science of AI agent的思考](content/20260224_对new-paper-towards-a-science-of-ai-agent的思考.md)
 
 - [20260224] [训练范式的隐性假设：对Observations from Running的反思](content/20260224_训练范式的隐性假设-对observations-from-running的反思.md)
