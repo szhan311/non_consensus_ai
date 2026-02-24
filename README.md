@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [安全研究的盲点：从We are all legal realists now谈起](content/20260224_安全研究的盲点-从we-are-all-legal-realists-now谈起.md)
+
 - [20260224] [对Understanding Convolutions on Graphs的思考](content/20260224_对understanding-convolutions-on-graphs的思考.md)
 
 - [20260224] [评测的幻觉：Import AI 446: Nuclear LLMs; China'](content/20260224_评测的幻觉-import-ai-446-nuclear-llms-china.md)
