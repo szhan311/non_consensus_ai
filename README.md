@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [训练范式的隐性假设：对Two memos from 2024的反思](content/20260224_训练范式的隐性假设-对two-memos-from-2024的反思.md)
+
 - [20260224] [训练范式的隐性假设：对What is computational mec的反思](content/20260224_训练范式的隐性假设-对what-is-computational-mec的反思.md)
 
 - [20260224] [对AI Won’t Automatically Make Legal Servic的思考](content/20260224_对ai-won-t-automatically-make-legal-servic的思考.md)
