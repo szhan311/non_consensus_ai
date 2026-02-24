@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [训练范式的隐性假设：对Two memos from 2024的反思](content/20260223_训练范式的隐性假设-对two-memos-from-2024的反思.md)
+
 - [20260223] [对Import AI 444: LLM societies; Huawei mak的思考](content/20260223_对import-ai-444-llm-societies-huawei-mak的思考.md)
 
 - [20260223] [评测的幻觉：Import AI 445: Timing superintellig](content/20260223_评测的幻觉-import-ai-445-timing-superintellig.md)
