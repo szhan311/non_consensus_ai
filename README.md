@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [从第一性原理看模型规模竞赛](content/20260224_从第一性原理看模型规模竞赛.md)
+
 - [20260224] [对Understanding Convolutions on Graphs的思考](content/20260224_对understanding-convolutions-on-graphs的思考.md)
 
 - [20260224] [对Distill Hiatus的思考](content/20260224_对distill-hiatus的思考.md)
