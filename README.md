@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260223_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
+
 - [20260223] [对A guide to understanding AI as normal te的思考](content/20260223_对a-guide-to-understanding-ai-as-normal-te的思考.md)
 
 - [20260223] [对AGI Is Not Multimodal的思考](content/20260223_对agi-is-not-multimodal的思考.md)
