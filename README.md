@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [评测的幻觉：Import AI 445: Timing superintellig](content/20260223_评测的幻觉-import-ai-445-timing-superintellig.md)
+
 - [20260223] [从Shape, Symmetries, and Structu看架构选择的隐性成本](content/20260223_从shape-symmetries-and-structu看架构选择的隐性成本.md)
 
 - [20260223] [训练范式的隐性假设：对The ML ontology and the a的反思](content/20260223_训练范式的隐性假设-对the-ml-ontology-and-the-a的反思.md)
