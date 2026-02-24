@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [对AGI Is Not Multimodal的思考](content/20260223_对agi-is-not-multimodal的思考.md)
+
 - [20260223] [从Shape, Symmetries, and Structu看架构选择的隐性成本](content/20260223_从shape-symmetries-and-structu看架构选择的隐性成本.md)
 
 - [20260223] [安全研究的盲点：从Single Stack LLMs are Split-Br谈起](content/20260223_安全研究的盲点-从single-stack-llms-are-split-br谈起.md)
