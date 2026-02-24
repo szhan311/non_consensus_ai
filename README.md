@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [安全研究的盲点：从Single Stack LLMs are Split-Br谈起](content/20260223_安全研究的盲点-从single-stack-llms-are-split-br谈起.md)
+
 - [20260223] [安全研究的盲点：从Agenda Reflection: Testing Aut谈起](content/20260223_安全研究的盲点-从agenda-reflection-testing-aut谈起.md)
 
 - [20260223] [AI进步的可信度评估框架](content/20260223_ai进步的可信度评估框架.md)
