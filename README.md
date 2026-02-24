@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [评测的幻觉：Import AI 445: Timing superintellig](content/20260223_评测的幻觉-import-ai-445-timing-superintellig.md)
+
 - [20260223] [安全研究的盲点：从Single Stack LLMs are Split-Br谈起](content/20260223_安全研究的盲点-从single-stack-llms-are-split-br谈起.md)
 
 - [20260223] [对AGI Is Not Multimodal的思考](content/20260223_对agi-is-not-multimodal的思考.md)
