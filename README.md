@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [从Shape, Symmetries, and Structu看架构选择的隐性成本](content/20260223_从shape-symmetries-and-structu看架构选择的隐性成本.md)
+
 - [20260223] [对Fact checking Moravec's paradox的思考](content/20260223_对fact-checking-moravec-s-paradox的思考.md)
 
 - [20260223] [开源vs闭源：能力差距的临界点](content/20260223_开源vs闭源-能力差距的临界点.md)
