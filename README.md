@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [评测的幻觉：Import AI 446: Nuclear LLMs; China'](content/20260224_评测的幻觉-import-ai-446-nuclear-llms-china.md)
+
 - [20260224] [产品化的现实检验：What was the most effective team yo](content/20260224_产品化的现实检验-what-was-the-most-effective-team-yo.md)
 
 - [20260224] [对Fact checking Moravec's paradox的思考](content/20260224_对fact-checking-moravec-s-paradox的思考.md)
