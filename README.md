@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [对A Gentle Introduction to Graph Neural Ne的思考](content/20260223_对a-gentle-introduction-to-graph-neural-ne的思考.md)
+
 - [20260223] [安全研究的盲点：从The ML ontology and the alignm谈起](content/20260223_安全研究的盲点-从the-ml-ontology-and-the-alignm谈起.md)
 
 - [20260223] [开源vs闭源：能力差距的临界点](content/20260223_开源vs闭源-能力差距的临界点.md)
