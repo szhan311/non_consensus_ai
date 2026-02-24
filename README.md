@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [评测的幻觉：Import AI 446: Nuclear LLMs; China'](content/20260224_评测的幻觉-import-ai-446-nuclear-llms-china.md)
+
 - [20260224] [训练范式的隐性假设：对Two memos from 2024的反思](content/20260224_训练范式的隐性假设-对two-memos-from-2024的反思.md)
 
 - [20260224] [对New Paper: Towards a science of AI agent的思考](content/20260224_对new-paper-towards-a-science-of-ai-agent的思考.md)
