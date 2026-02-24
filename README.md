@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [AI进步的可信度评估框架](content/20260224_ai进步的可信度评估框架.md)
+
 - [20260224] [对Import AI 444: LLM societies; Huawei mak的思考](content/20260224_对import-ai-444-llm-societies-huawei-mak的思考.md)
 
 - [20260224] [训练范式的隐性假设：对Two memos from 2024的反思](content/20260224_训练范式的隐性假设-对two-memos-from-2024的反思.md)
