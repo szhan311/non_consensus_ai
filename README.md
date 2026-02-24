@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [产品化的现实检验：What was the most effective team yo](content/20260224_产品化的现实检验-what-was-the-most-effective-team-yo.md)
+
 - [20260224] [对Fact checking Moravec's paradox的思考](content/20260224_对fact-checking-moravec-s-paradox的思考.md)
 
 - [20260224] [开源vs闭源：能力差距的临界点](content/20260224_开源vs闭源-能力差距的临界点.md)
