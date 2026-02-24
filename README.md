@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260223] [对Fact checking Moravec's paradox的思考](content/20260223_对fact-checking-moravec-s-paradox的思考.md)
+
 - [20260223] [开源vs闭源：能力差距的临界点](content/20260223_开源vs闭源-能力差距的临界点.md)
 
 - [20260223] [评测的幻觉：Import AI 446: Nuclear LLMs; China'](content/20260223_评测的幻觉-import-ai-446-nuclear-llms-china.md)
