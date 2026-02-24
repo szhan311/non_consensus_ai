@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [对Fact checking Moravec's paradox的思考](content/20260224_对fact-checking-moravec-s-paradox的思考.md)
+
 - [20260224] [开源vs闭源：能力差距的临界点](content/20260224_开源vs闭源-能力差距的临界点.md)
 
 - [20260224] [安全研究的盲点：从Responsible Scaling Policy v3谈起](content/20260224_安全研究的盲点-从responsible-scaling-policy-v3谈起.md)
