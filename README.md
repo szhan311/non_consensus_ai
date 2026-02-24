@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [对New Paper: Towards a science of AI agent的思考](content/20260224_对new-paper-towards-a-science-of-ai-agent的思考.md)
+
 - [20260224] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260224_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
 
 - [20260224] [安全研究的盲点：从Citrini’s Scenario Is A Great 谈起](content/20260224_安全研究的盲点-从citrini-s-scenario-is-a-great-谈起.md)
