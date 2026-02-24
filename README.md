@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260224_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
+
 - [20260224] [评估指标与真实能力的脱节](content/20260224_评估指标与真实能力的脱节.md)
 
 - [20260224] [对Understanding Convolutions on Graphs的思考](content/20260224_对understanding-convolutions-on-graphs的思考.md)
