@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [对A Gentle Introduction to Graph Neural Ne的思考](content/20260224_对a-gentle-introduction-to-graph-neural-ne的思考.md)
+
 - [20260224] [对Fact checking Moravec's paradox的思考](content/20260224_对fact-checking-moravec-s-paradox的思考.md)
 
 - [20260224] [对AGI Is Not Multimodal的思考](content/20260224_对agi-is-not-multimodal的思考.md)
