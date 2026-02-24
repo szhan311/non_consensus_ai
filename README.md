@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [对Distill Hiatus的思考](content/20260224_对distill-hiatus的思考.md)
+
 - [20260224] [对A guide to understanding AI as normal te的思考](content/20260224_对a-guide-to-understanding-ai-as-normal-te的思考.md)
 
 - [20260224] [AI进步的可信度评估框架](content/20260224_ai进步的可信度评估框架.md)
