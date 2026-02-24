@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [对AGI Is Not Multimodal的思考](content/20260224_对agi-is-not-multimodal的思考.md)
+
 - [20260224] [训练范式的隐性假设：对The Easiest Route to Secr的反思](content/20260224_训练范式的隐性假设-对the-easiest-route-to-secr的反思.md)
 
 - [20260224] [对AGI Is Not Multimodal的思考](content/20260224_对agi-is-not-multimodal的思考.md)
