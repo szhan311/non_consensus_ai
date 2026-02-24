@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [对Understanding Convolutions on Graphs的思考](content/20260224_对understanding-convolutions-on-graphs的思考.md)
+
 - [20260224] [AI进步的可信度评估框架](content/20260224_ai进步的可信度评估框架.md)
 
 - [20260224] [训练范式的隐性假设：对What is computational mec的反思](content/20260224_训练范式的隐性假设-对what-is-computational-mec的反思.md)
