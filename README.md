@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [开源vs闭源：能力差距的临界点](content/20260224_开源vs闭源-能力差距的临界点.md)
+
 - [20260224] [从Rumination is a habit (and you看架构选择的隐性成本](content/20260224_从rumination-is-a-habit-and-you看架构选择的隐性成本.md)
 
 - [20260224] [对New Paper: Towards a science of AI agent的思考](content/20260224_对new-paper-towards-a-science-of-ai-agent的思考.md)
