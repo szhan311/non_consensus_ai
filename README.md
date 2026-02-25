@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [评测的幻觉：Import AI 445: Timing superintellig](content/20260224_评测的幻觉-import-ai-445-timing-superintellig.md)
+
 - [20260224] [开源vs闭源：能力差距的临界点](content/20260224_开源vs闭源-能力差距的临界点.md)
 
 - [20260224] [对AGI Is Not Multimodal的思考](content/20260224_对agi-is-not-multimodal的思考.md)
