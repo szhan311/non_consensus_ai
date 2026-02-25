@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [开源vs闭源：能力差距的临界点](content/20260224_开源vs闭源-能力差距的临界点.md)
+
 - [20260224] [对AGI Is Not Multimodal的思考](content/20260224_对agi-is-not-multimodal的思考.md)
 
 - [20260224] [从Shape, Symmetries, and Structu看架构选择的隐性成本](content/20260224_从shape-symmetries-and-structu看架构选择的隐性成本.md)
