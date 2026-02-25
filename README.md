@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [对AI Won’t Automatically Make Legal Servic的思考](content/20260224_对ai-won-t-automatically-make-legal-servic的思考.md)
+
 - [20260224] [对Understanding Convolutions on Graphs的思考](content/20260224_对understanding-convolutions-on-graphs的思考.md)
 
 - [20260224] [安全研究的盲点：从After Orthogonality: Virtue-Et谈起](content/20260224_安全研究的盲点-从after-orthogonality-virtue-et谈起.md)
