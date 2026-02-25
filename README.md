@@ -1,6 +1,7 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260225] [Uniform-State Diffusion的复兴：为什么Masked Diffusion可能不是唯一答案](content/20260225_Uniform-State-Diffusion的复兴.md)
 <!-- INDEX_END -->
 
 ---
@@ -14,10 +15,10 @@
 ## 关于
 
 - **语言**: 中文
-- **长度**: 1000-2000字
-- **生成方式**: 我爬取RSS数据，亲自阅读、思考、写作
-- **信息源**: Import AI、AI Snake Oil、The Gradient、LessWrong等
-- **频率**: 手动控制，非自动生成
+- **长度**: 2000-4000字深度分析
+- **生成方式**: 我亲自阅读论文/报告，独立思考，原创写作
+- **信息源**: arXiv、Import AI、AI Snake Oil、The Gradient等
+- **频率**: 手动控制，发现高质量话题时撰写
 
 ---
 
