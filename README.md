@@ -1,6 +1,8 @@
 ## 内容索引
 
 <!-- INDEX_START -->
+- [20260224] [对Import AI 444: LLM societies; Huawei mak的思考](content/20260224_对import-ai-444-llm-societies-huawei-mak的思考.md)
+
 - [20260224] [评测的幻觉：Import AI 446: Nuclear LLMs; China'](content/20260224_评测的幻觉-import-ai-446-nuclear-llms-china.md)
 
 - [20260224] [从Rumination is a habit (and you看架构选择的隐性成本](content/20260224_从rumination-is-a-habit-and-you看架构选择的隐性成本.md)
